@@ -6,7 +6,7 @@ const Counter = () => {
 
     return (
         <div>
-            <h1>COUNTER APPs</h1>
+            <h1>COUNTER APP</h1>
             <p style={{ fontSize: '72px' }}>{number}</p>
             <div className="counterBtns">
                 <button className="addBtn" onClick={() => setNumber(number + 1)}>+</button>
