@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+  height: 80vh;
+}
+
+button {
+  margin-right: 5px;
+  font-size: 18px;
+  border-radius: 5px;
+  padding: 15px;
+  border: 0px;
+}
+
+.addBtn {
+  background-color: #007bff;
+  color: white;
+}
+
+.minusBtn {
+  background-color: #dc3545;
+  color: white;
+}
+
+.resetBtn {
+  background-color: #343a40;
+  color: white;
+}
+
+.day-btns {
+  margin-top: 30px;
+}
+
+.day {
+  background-color: #E7F1F3;
+}
+
+.night {
+  background-color: #0D1D2A;
+  color: white;
+}
+
+.day-btn {
+  background-color: #E7F1F3;
+  color: #0D1D2A;
+}
+
+.night-btn {
+  color: #E7F1F3;
+  background-color: #0D1D2A;
+}
